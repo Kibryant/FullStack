@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "frontend",
+    "slug": "frontend",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "fonts": {    
+      "PoppinsRegular": "./assets/fonts/Poppins-Regular.ttf",
+      "PoppinsMedium": "./assets/fonts/Poppins-Medium.ttf",
+      "PoppinsBold": "./assets/fonts/Poppins-Bold.ttf"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": ""
+    }
+  }
+}
