@@ -1,3 +1,6 @@
 [submodule "backend"]
     path = apps/backend
     url = https://github.com/Kibryant/backend.git
+[submodule "apps/backend"]
+	path = apps/backend
+	url = https://github.com/Kibryant/backend.git
